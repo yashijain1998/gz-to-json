@@ -1,0 +1,62 @@
+[
+    {
+        "timestamp": 1642519728135,
+        "message": " OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k"
+    },
+    {
+        "timestamp": 1642519728870,
+        "message": " OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k"
+    },
+    {
+        "timestamp": 1642519730500,
+        "message": " START RequestId: a01d916e-631a-4754-8eae-212e0866df70 Version: $LATEST"
+    },
+    {
+        "timestamp": 1642519730502,
+        "message": " [INFO]\t2022-01-18T15:28:50.502Z\ta01d916e-631a-4754-8eae-212e0866df70\tStarting Execution 1."
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " These are the cluster centers -"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " [[24.91304348 30.73913043]"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " [83.33333333 81.77777778]"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " [50.69230769 64.38461538]"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " [75.         43.2       ]]"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " The cluster -"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " [1 1 1 3 1 1 3 1 1 1 2 2 2 3 3 2 1 2 3 2 2 2 2 2 0 0 0 0 0 0 2 2 0 0 0 0 2"
+    },
+    {
+        "timestamp": 1642519730612,
+        "message": " 0 0 0 0 0 0 0 0 0 0 0 0 0]"
+    },
+    {
+        "timestamp": 1642519730613,
+        "message": " [INFO]\t2022-01-18T15:28:50.612Z\ta01d916e-631a-4754-8eae-212e0866df70\tExiting Execution."
+    },
+    {
+        "timestamp": 1642519730617,
+        "message": " END RequestId: a01d916e-631a-4754-8eae-212e0866df70"
+    },
+    {
+        "timestamp": 1642519730617,
+        "message": " REPORT RequestId: a01d916e-631a-4754-8eae-212e0866df70\tDuration: 113.24 ms\tBilled Duration: 114 ms\tMemory Size: 512 MB\tMax Memory Used: 174 MB\tInit Duration: 2560.07 ms\t"
+    }
+]
